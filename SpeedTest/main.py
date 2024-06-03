@@ -1,6 +1,6 @@
-import speedtest
+import speedtest 
 import time
-from playsound import playsound
+from playsound3 import playsound 
 
 def play_alert():
     playsound('Sound\\alert.mp3')
